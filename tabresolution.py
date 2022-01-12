@@ -1,0 +1,4 @@
+firstline:wq
+zz
+ZZ
+
